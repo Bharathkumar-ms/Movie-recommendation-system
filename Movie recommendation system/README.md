@@ -10,9 +10,6 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using `beautifulsoup4` and performed sentiment analysis on those reviews.
 
-Check out the live demo: https://mrswsa.kishanlal.dev
-
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
 
 ## The Movie Cinema
 
@@ -22,11 +19,7 @@ Link to "The Movie Cinema" application: http://themoviecinema-env.eba-mpiuximk.u
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
-
-## Featured in Krish's Live Session on YouTube
-
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
+Source Code: 
 
 ## How to get the API key?
 
